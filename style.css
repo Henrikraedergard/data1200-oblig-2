@@ -6,3 +6,9 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 81.25;
 }
+
+.introtekst {
+    color: rgb(134, 188, 36);
+    font-size: 65px;
+    margin-left: 75px;
+}
