@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 body {
     background-color: #000000;
     color: white;
@@ -10,5 +15,14 @@ body {
 .introtekst {
     color: rgb(134, 188, 36);
     font-size: 65px;
+}
+.introtekst-mindre {
+    font-size: 20px;
+    font-weight: 900;
+    
+}
+
+.tekst {
     margin-left: 75px;
+    padding-left: 0px;
 }
