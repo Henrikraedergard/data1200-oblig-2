@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-* {
-    padding: 0px;
-    margin: 0px;
-}
-
 body {
     background-color: #000000;
     color: white;
@@ -12,17 +7,15 @@ body {
     font-size: 81.25;
 }
 
-.introtekst {
-    color: rgb(134, 188, 36);
-    font-size: 65px;
-}
-.introtekst-mindre {
-    font-size: 20px;
-    font-weight: 900;
-    
+.deloitteLogo {
+    position: absolute;
+    top: 0px;
+    height: 50px;
+    padding: 40px;
 }
 
-.tekst {
-    margin-left: 75px;
-    padding-left: 0px;
+.hero {
+    display: block;
+    margin: 0px auto;
+    height: 95vh;
 }
