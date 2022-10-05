@@ -6,3 +6,8 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 81.25;
 }
+.deloitteLogo{
+    position: absolute;
+    top: 0px;
+    height: 100px;
+}
