@@ -9,6 +9,7 @@ body {
 
 .deloitteLogo {
     position: absolute;
+<<<<<<< HEAD
     top: 0px;
     height: 100px;
 }
@@ -17,4 +18,9 @@ body {
     display: block;
     margin: 0px auto;
     height: 95vh;
+=======
+    top: 25px;
+    left: 50px;
+    height: 50px;
+>>>>>>> a160c75196cfd01fc873c31ba28b6dccc00bd096
 }
