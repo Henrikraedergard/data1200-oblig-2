@@ -8,9 +8,9 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 81.25;
-    margin: 0px;
     background-color: #000000;
     color: white;
+
 }
 
 main {
@@ -19,13 +19,13 @@ main {
 
 
 .introtekst {
-    color: rgb(134, 188, 36);
+    color: rgb(56, 188, 36);
     font-size: 65px;
+    font-weight: 100;
 }
 
 .introtekst-mindre {
-    font-size: 20px;
-    font-weight: 900;
+    font-size: 30px;
     margin-top: 60px;
 }
 
@@ -72,7 +72,7 @@ main {
 }
 
 .mennesker {
-    width: 800px;
+    width: 900px;
 }
 
 .box {
@@ -83,10 +83,12 @@ main {
 
 .sidebar {
     margin-right: 100px;
-    width: 300px;
+    width: 390px;
     background-color: black;
     color: white;
     margin-top: 50px;
+    font-size: 20px;
+    font-weight: 120;
 }
 
 .sidebar-tekst {
@@ -95,16 +97,20 @@ main {
 
 
 .sidebar-tekst>h1 {
-    margin-bottom: 20px;
+    margin-bottom: 35px;
     margin-top: 20px;
+    font-size: 40px;
+    font-weight: 540;
 }
 
 .sidebar-tekst>h2 {
     margin-bottom: 2px;
+    font-size: 28px;
+    font-weight: 505;
 }
 
 .sidebar-tekst>p {
-    margin-bottom: 25px;
+    margin-bottom: 38px;
 }
 
 .grønn-tekst {
@@ -121,6 +127,7 @@ main {
     font-size: 68px;
     font-weight: 100;
     margin: 40px 0px;
+    margin-top: 75px;
 }
 
 .border {
@@ -139,8 +146,9 @@ main {
 }
 
 .hovedtekst>p {
-    margin-bottom: 10px;
-    font-size: 18px;
+    margin-bottom: 20px;
+    font-size: 21px;
+    font-weight: 100;
 }
 
 .list {
@@ -160,6 +168,7 @@ main {
 
 .tjukk {
     font-weight: 700;
+    margin-left: 250px;
 }
 
 .Statistikk {
