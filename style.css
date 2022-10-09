@@ -13,7 +13,7 @@ body {
 
 }
 
-main {
+.side1 {
     margin-bottom: 60px;
 }
 
@@ -30,6 +30,7 @@ main {
 }
 
 .hero {
+    /* sentrering av bildet med pos absolute*/
     position: absolute;
     height: 600px;
     left: 50%;
@@ -156,7 +157,7 @@ main {
 
 .list {
     display: flex;
-    gap: 200px;
+    gap: 50px;
     font-size: 30px;
     padding: 20px 0px;
 }
